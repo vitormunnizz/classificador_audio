@@ -1,9 +1,6 @@
-# Detecção de Áudios Falsos (DeepFake) com Estratégias de Ampliação e Balanceamento de Dados
-
 ## 📌 Descrição do Projeto
 
-Este projeto investiga estratégias de ampliação e balanceamento de dados para melhorar a detecção de áudios verdadeiros e falsos (DeepFake).
-O avanço das tecnologias de síntese de voz tem tornado cada vez mais difícil diferenciar áudios autênticos de falsificações. Assim, o trabalho explora como diferentes técnicas de **Data Augmentation** e **balanceamento de classes** influenciam o desempenho de modelos de aprendizado de máquina.
+Este projeto investiga estratégias de ampliação e balanceamento de dados para melhorar a detecção de áudios verdadeiros e falsos (DeepFake). O avanço das tecnologias de síntese de voz tem tornado cada vez mais difícil diferenciar áudios autênticos de falsificações. Assim, o trabalho explora como diferentes técnicas de **Data Augmentation** e **balanceamento de classes** influenciam o desempenho de modelos de aprendizado de máquina.
 
 O objetivo principal é avaliar quais combinações de técnicas ajudam os modelos a **generalizar melhor** para diferentes condições, mantendo a qualidade perceptiva e evitando distorções excessivas.
 
