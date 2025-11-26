@@ -54,7 +54,18 @@ Todos os modelos foram treinados com **validação cruzada** (80% treino, 20% te
 * **Precisão**
 * **Recall**
 * **F1-Score**
-* **Desvio Padrão** (para avaliar estabilidade entre execuções)
-## 📬 Contato
+* **Desvio Padrão** (para avaliar estabilidade entre execuções)## 👨‍💻 Autor
 
-Para dúvidas ou sugestões: **[vitormunnizz@gmail.com](mailto:vitormunnizz@gmail.com)**
+## 👨‍💻 Autor
+
+**Vitor Hugo Muniz de Sousa Santos**
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**```
