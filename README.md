@@ -57,6 +57,8 @@ Todos os modelos foram treinados com **validação cruzada** (80% treino, 20% te
 
 **Vitor Hugo Muniz de Sousa Santos**
 
+💼 Engenheiro de Computação | Cientista de Dados
+
 📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
 🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
